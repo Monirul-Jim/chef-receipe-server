@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://example.com/chef1.jpg",
+        "chef_name": "John Smith",
+        "years_of_experience": 10,
+        "num_recipes": 10,
+        "likes": 1000
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://example.com/chef2.jpg",
+        "chef_name": "Jane Doe",
+        "years_of_experience": 8,
+        "num_recipes": 7,
+        "likes": 800
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://example.com/chef3.jpg",
+        "chef_name": "Mike Johnson",
+        "years_of_experience": 15,
+        "num_recipes": 6,
+        "likes": 1500
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://example.com/chef4.jpg",
+        "chef_name": "Sara Lee",
+        "years_of_experience": 5,
+        "num_recipes": 7,
+        "likes": 500
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://example.com/chef5.jpg",
+        "chef_name": "David Chen",
+        "years_of_experience": 12,
+        "num_recipes": 9,
+        "likes": 1200
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://example.com/chef6.jpg",
+        "chef_name": "Lisa Johnson",
+        "years_of_experience": 7,
+        "num_recipes": 5,
+        "likes": 700
+    },
+    {
+        "id": 7,
+        "chef_picture": "https://example.com/chef7.jpg",
+        "chef_name": "Adam Williams",
+        "years_of_experience": 9,
+        "num_recipes": 8,
+        "likes": 900
+    },
+    {
+        "id": 8,
+        "chef_picture": "https://example.com/chef8.jpg",
+        "chef_name": "Emily Davis",
+        "years_of_experience": 11,
+        "num_recipes": 9,
+        "likes": 1100
+    }
+]
