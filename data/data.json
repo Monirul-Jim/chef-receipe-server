@@ -1,65 +1,65 @@
 [
     {
         "id": 1,
-        "chef_picture": "https://example.com/chef1.jpg",
-        "chef_name": "John Smith",
-        "years_of_experience": 10,
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwQDYNdhvqfCeeyXG1Gi1ESD9AD_PvulJEodxHwgP9wOvGLansuS9R1ILQfpi9hLdjyU&usqp=CAU",
+        "chef_name": "Mustapha Haj Omar",
+        "years_of_experience": "10 years",
         "num_recipes": 10,
         "likes": 1000
     },
     {
         "id": 2,
-        "chef_picture": "https://example.com/chef2.jpg",
-        "chef_name": "Jane Doe",
-        "years_of_experience": 8,
+        "chef_picture": "https://i.insider.com/60a29f4e1b5cea0019c4556c?width=700",
+        "chef_name": "Geoffrey Zakarian",
+        "years_of_experience":" 8 years",
         "num_recipes": 7,
         "likes": 800
     },
     {
         "id": 3,
-        "chef_picture": "https://example.com/chef3.jpg",
+        "chef_picture": "https://img.freepik.com/premium-photo/chef-preparing-dish-with-seafood-shrimps-mediterranean-cuisine-concept_199620-9192.jpg?w=2000",
         "chef_name": "Mike Johnson",
-        "years_of_experience": 15,
+        "years_of_experience": "15 years",
         "num_recipes": 6,
         "likes": 1500
     },
     {
         "id": 4,
-        "chef_picture": "https://example.com/chef4.jpg",
-        "chef_name": "Sara Lee",
-        "years_of_experience": 5,
+        "chef_picture": "https://chefabdulmediterranean.com/assets/img/ChefAbdul.jpg",
+        "chef_name": "Chef Abdul",
+        "years_of_experience":" 5 years",
         "num_recipes": 7,
         "likes": 500
     },
     {
         "id": 5,
-        "chef_picture": "https://example.com/chef5.jpg",
-        "chef_name": "David Chen",
-        "years_of_experience": 12,
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtmup91JoV6M0Tjj5MqpI7hpJLLC_fp0tHCFwab_0m4AoqMV8wNrSUK8ESVsF1G_1CNNU&usqp=CAU",
+        "chef_name": "Mubarak",
+        "years_of_experience": "12 years",
         "num_recipes": 9,
         "likes": 1200
     },
     {
         "id": 6,
-        "chef_picture": "https://example.com/chef6.jpg",
-        "chef_name": "Lisa Johnson",
-        "years_of_experience": 7,
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8Rn1tPgCEyo8Qh6s1Ou9s8Fhz99uaNfSjtQhjYhqb8oHhlbTGsxRjQlCyLu8Asvo1fE&usqp=CAU",
+        "chef_name": "Lis Johnson",
+        "years_of_experience":" 7 years",
         "num_recipes": 5,
         "likes": 700
     },
     {
         "id": 7,
-        "chef_picture": "https://example.com/chef7.jpg",
-        "chef_name": "Adam Williams",
-        "years_of_experience": 9,
+        "chef_picture": "https://www.themediterraneandish.com/wp-content/uploads/2018/08/Suzy-Karadsheh-The-Mediterranean-Dish-for-web.jpg",
+        "chef_name": "Suzy Karadsheh",
+        "years_of_experience":" 9 years",
         "num_recipes": 8,
         "likes": 900
     },
     {
         "id": 8,
-        "chef_picture": "https://example.com/chef8.jpg",
-        "chef_name": "Emily Davis",
-        "years_of_experience": 11,
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnXFmDYebEF-RJn-2t88OCAFxyf3ASnxa9Fr7ta7HbGNm2bAzaQ5594fc9Hd-1fdpDd_k&usqp=CAU",
+        "chef_name": "Mustafa Ali",
+        "years_of_experience": "11 years",
         "num_recipes": 9,
         "likes": 1100
     }

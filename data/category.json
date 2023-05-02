@@ -1,0 +1,674 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "1",
+        "food_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrzBCqUwUZm1kaYPFUMTcHQRMNmVaFAMS2ilypAwP-k1ZitLphXR5_XF2MAAjE0IDdQOk&usqp=CAU",
+        "recipe_name": "Classic Beef Curry",
+        "ingredients": [
+            "beef",
+            "onion",
+            "garlic",
+            "ginger",
+            "coconut milk",
+            "tomatoes",
+            "potatoes",
+            "curry powder",
+            "cumin",
+            "coriander",
+            "paprika",
+            "cayenne pepper"
+        ],
+        "cooking_method": "1. Heat oil in a large pot over medium heat. Add onion and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute. \n2. Add beef and cook until browned on all sides. \n3. Add coconut milk, tomatoes, and potatoes. Bring to a simmer and cook until the beef is tender and the potatoes are cooked through, about 30 minutes. \n4. Stir in curry powder, cumin, coriander, paprika, and cayenne pepper. \n5. Serve with rice or naan bread.",
+        "rating": 4.5
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "category_id": "1",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLWtRqq8-g0llMjGUcCjqug_QwxPinkvlRtpeludpco5KRf7jzh96pyXzZLjtL0YaGj60&usqp=CAU",
+        "recipe_name": "Spicy Beef Curry",
+        "ingredients": [
+            "beef",
+            "onion",
+            "garlic",
+            "ginger",
+            "coconut milk",
+            "tomatoes",
+            "potatoes",
+            "curry powder",
+            "cumin",
+            "coriander",
+            "paprika",
+            "cayenne pepper",
+            "red pepper flakes"
+        ],
+        "cooking_method": "1. Heat oil in a large pot over medium heat. Add onion and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute. \n2. Add beef and cook until browned on all sides. \n3. Add coconut milk, tomatoes, and potatoes. Bring to a simmer and cook until the beef is tender and the potatoes are cooked through, about 30 minutes. \n4. Stir in curry powder, cumin, coriander, paprika, cayenne pepper, and red pepper flakes. \n5. Serve with rice or naan bread.",
+        "rating": 4.0
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6cd",
+        "category_id": "1",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpKd7x5n3LOSi1smRvqo34xCNtJLs7_WBHnO2xxZkSncy0U5XG4U0q2TenYsBoDSqIulo&usqp=CAU",
+        "recipe_name": "Mediterranean Green Curry Beef",
+        "ingredients": [
+            "beef",
+            "green curry paste",
+            "coconut milk",
+            "bamboo shoots",
+            "green beans",
+            "bell pepper",
+            "basil leaves"
+        ],
+        "cooking_method": "1. Heat oil in a large pot over medium heat. Add green curry paste and cook for a minute. \n2. Add beef and cook until browned on all sides. \n3. Add coconut milk and bring to a simmer. \n4. Add bamboo shoots, green beans, and bell pepper. Cook until vegetables are tender, about 10 minutes. \n5. Stir in basil leaves. \n6. Serve with rice.",
+        "rating": 4.8
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aef7",
+        "category_id": "1",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLHmcRBJAew95ZvdoxZzECHh8m4hW66eNfib0xNbyZR_RgwYHoA5Af3Ey_XIFptmal8fY&usqp=CAU",
+        "recipe_name": "Beef Massaman Curry",
+        "ingredients": [
+            "beef",
+            "massaman curry paste",
+            "coconut milk",
+            "potatoes",
+            "onion",
+            "peanuts",
+            "fish sauce",
+            "tamarind paste",
+            "palm sugar"
+        ],
+        "cooking_method": "1. Heat oil in a large pot over medium heat. Add massaman curry paste and cook for a minute. \n2. Add Add beef and cook until browned on all sides. \n3. Add coconut milk and bring to a simmer. \n4. Add bamboo shoots, green beans, and bell pepper. Cook until vegetables are tender, about 10 minutes. \n5. Stir in basil leaves. \n6. Serve with rice.",
+        "rating": 4.8
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6afe66",
+        "category_id": "2",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBm_FZMNXqa2h1Mfd7n8LNphIAxaxXOPWU2Nfv8EmPgguwiVw7DMeEOh2FjJjVH9eWveA&usqp=CAU",
+        "recipe_name": "Classic Chicken Curry",
+        "ingredients": [
+            "1 lb boneless chicken",
+            "1 onion",
+            "3 garlic cloves",
+            "1 inch ginger",
+            "1 tomato",
+            "2 tbsp oil",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/2 tsp paprika",
+            "1/2 tsp garam masala",
+            "1/2 cup coconut milk",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and add cumin seeds. 2. Add chopped onions, garlic, and ginger and fry until golden brown. 3. Add chopped tomatoes and cook until they become soft. 4. Add the spices and fry for a minute. 5. Add the chicken and cook for 10-12 minutes. 6. Add coconut milk and salt to taste. 7. Simmer for another 5 minutes. Serve hot with rice or naan bread.",
+        "rating": 4.5
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6ae0",
+        "category_id": "2",
+
+        "recipe_name": "Thai Red Curry Chicken",
+        "ingredients": [
+            "1 lb boneless chicken",
+            "1 onion",
+            "3 garlic cloves",
+            "1 inch ginger",
+            "1 red bell pepper",
+            "1 green bell pepper",
+            "1 can coconut milk",
+            "2 tbsp red curry paste",
+            "1 tbsp fish sauce",
+            "1 tbsp brown sugar",
+            "1 lime",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan and add chopped onions, garlic, and ginger. 2. Add red curry paste and fry for a minute. 3. Add chicken and fry until golden brown. 4. Add chopped bell peppers and cook for 2-3 minutes. 5. Add coconut milk, fish sauce, and brown sugar. 6. Simmer for 10-12 minutes. 7. Squeeze lime juice over the curry and add salt to taste. Serve hot with rice.",
+        "rating": 4.2
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aBad",
+        "category_id": "2",
+
+        "recipe_name": "Indian Butter Chicken",
+        "ingredients": [
+            "1 lb boneless chicken",
+            "1 onion",
+            "3 garlic cloves",
+            "1 inch ginger",
+            "1 tomato",
+            "2 tbsp butter",
+            "1 tsp cumin",
+            "1 tsp coriander",
+            "1/2 tsp turmeric",
+            "1/2 tsp paprika",
+            "1/2 tsp garam masala",
+            "1/2 cup heavy cream",
+            "Salt to taste"
+        ],
+        "cooking_method": "1. Heat butter in a pan and add chopped onions, garlic, and ginger. 2. Add chopped tomatoes and cook until they become soft. 3. Add the spices and fry for a minute. 4. Add the chicken and cook for 10-12 minutes. 5. Add heavy cream and salt to taste. 6. Simmer for another 5 minutes. Serve hot with rice or naan bread.",
+        "rating": 4.8
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aMA4",
+        "category_id": "2",
+
+        "recipe_name": "Spicy Mutton Curry",
+        "ingredients": [
+            "1 kg mutton",
+            "2 onions",
+            "2 tomatoes",
+            "2 tbsp ginger paste",
+            "2 tbsp garlic paste",
+            "2 tbsp red chilli powder",
+            "1 tsp turmeric powder",
+            "1 tsp garam masala",
+            "4 tbsp oil",
+            "salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pressure cooker.\n2. Add onions and fry until golden brown.\n3. Add ginger and garlic paste and fry for a minute.\n4. Add tomatoes and fry until soft.\n5. Add mutton, red chilli powder, turmeric powder, garam masala, and salt to taste. Mix well.\n6. Add 2 cups of water and pressure cook for 5-6 whistles or until the mutton is tender.\n7. Serve hot with rice or naan.",
+        "rating": "4.5"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a&H",
+        "category_id": "3",
+
+        "recipe_name": "Mughlai Mutton Curry",
+        "ingredients": [
+            "1 kg mutton",
+            "2 onions",
+            "2 tomatoes",
+            "2 tbsp ginger paste",
+            "2 tbsp garlic paste",
+            "1 tsp cumin seeds",
+            "1 tsp coriander powder",
+            "1 tsp red chilli powder",
+            "1/2 tsp turmeric powder",
+            "1/2 cup yogurt",
+            "4 tbsp oil",
+            "salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pan.\n2. Add cumin seeds and fry for a minute.\n3. Add onions and fry until golden brown.\n4. Add ginger and garlic paste and fry for a minute.\n5. Add tomatoes and fry until soft.\n6. Add mutton, red chilli powder, turmeric powder, coriander powder, and salt to taste. Mix well.\n7. Add yogurt and mix well.\n8. Cover and cook for 20-25 minutes or until the mutton is tender.\n9. Serve hot with rice or naan.",
+        "rating": "4.8"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aGHas",
+        "category_id": "3",
+
+        "recipe_name": "Kashmiri Mutton Curry",
+        "ingredients": [
+            "1 kg mutton",
+            "2 onions",
+            "2 tomatoes",
+            "2 tbsp ginger paste",
+            "2 tbsp garlic paste",
+            "1 tsp cumin seeds",
+            "1 tsp coriander powder",
+            "1 tsp fennel powder",
+            "1 tsp red chilli powder",
+            "1/2 tsp turmeric powder",
+            "4 tbsp oil",
+            "salt to taste"
+        ],
+        "cooking_method": "1. Heat oil in a pressure cooker.\n2. Add cumin seeds and fry for a minute.\n3. Add onions and fry until golden brown.\n4. Add ginger and garlic paste and fry for a minute.\n5. Add tomatoes and fry until soft.\n6. Add mutton, red chilli powder, turmeric powder, coriander powder, fennel powder, and salt to taste. Mix well.\n7. Add 2",
+        "rating": "4.8"
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aKah",
+        "category_id": "3",
+
+        "recipe_name": "Spicy Chicken Soup Curry",
+        "ingredients": [
+            "1 lb boneless chicken thighs",
+            "1 onion, diced",
+            "1 carrot, sliced",
+            "2 potatoes, diced",
+            "1 bell pepper, diced",
+            "1 tbsp curry powder",
+            "1 tsp paprika",
+            "1 tsp cumin",
+            "4 cups chicken broth",
+            "1 can coconut milk",
+            "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. In a large pot, sauté the onion and chicken until browned. \n2. Add the carrot, potato, bell pepper, curry powder, paprika, and cumin. Cook for a few minutes until fragrant. \n3. Add the chicken broth and coconut milk. Bring to a boil, then reduce heat and simmer for 30 minutes or until vegetables are tender. \n4. Season with salt and pepper to taste.",
+        "rating": 4.5
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aBHsa",
+        "category_id": "3",
+
+        "recipe_name": "Vegetarian Soup Curry",
+        "ingredients": [
+            "1 onion, diced",
+            "2 cloves garlic, minced",
+            "1 sweet potato, diced",
+            "1 zucchini, sliced",
+            "1 cup green beans, trimmed",
+            "1 tbsp curry powder",
+            "1 tsp turmeric",
+            "1 tsp cumin",
+            "4 cups vegetable broth",
+            "1 can coconut milk",
+            "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. In a large pot, sauté the onion and garlic until fragrant. \n2. Add the sweet potato, zucchini, green beans, curry powder, turmeric, and cumin. Cook for a few minutes until fragrant. \n3. Add the vegetable broth and coconut milk. Bring to a boil, then reduce heat and simmer for 30 minutes or until vegetables are tender. \n4. Season with salt and pepper to taste.",
+        "rating": 4.0
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aASUde",
+        "category_id": "4",
+
+        "recipe_name": "Beef Soup Curry",
+        "ingredients": [
+            "1 lb beef chuck, cut into bite-sized pieces",
+            "1 onion, diced",
+            "2 carrots, sliced",
+            "2 potatoes, diced",
+            "1 cup chopped kale",
+            "1 tbsp curry powder",
+            "1 tsp garam masala",
+            "4 cups beef broth",
+            "1 can coconut milk",
+            "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. In a large pot, sauté the onion and beef until browned. \n2. Add the carrot, potato, kale, curry powder, and garam masala. Cook for a few minutes until fragrant. \n3. Add the beef broth and coconut milk. Bring to a boil, then reduce heat and simmer for 30 minutes or until vegetables are tender. \n4. Season with salt and pepper to taste.",
+        "rating": 4.2
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aHJA3s",
+        "category_id": "4",
+
+        "recipe_name": "Thai Green Curry",
+        "ingredients": [
+            "1 can of coconut milk",
+            "2 tablespoons of green curry paste",
+            "1 cup of chicken broth",
+            "1 pound of boneless chicken breast",
+            "1 cup of chopped vegetables (bell peppers, carrots, onions, etc.)"
+        ],
+        "cooking_method": "1. In a large pot or wok, heat the curry paste over medium-high heat for 1-2 minutes until fragrant.\n2. Add the chicken and cook for 2-3 minutes until browned on all sides.\n3. Add the vegetables, coconut milk, and chicken broth. Bring to a boil, then reduce heat and simmer for 10-15 minutes.\n4. Serve over rice.",
+        "rating": 4.5
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aJA899",
+        "category_id": "4",
+
+        "recipe_name": "Indian Butter Chicken",
+        "ingredients": [
+            "1 pound of boneless chicken breast",
+            "1 cup of plain yogurt",
+            "2 tablespoons of garam masala",
+            "1 tablespoon of turmeric",
+            "1 can of diced tomatoes"
+        ],
+        "cooking_method": "1. In a large bowl, combine the chicken, yogurt, garam masala, and turmeric. Marinate for at least 30 minutes.\n2. In a large skillet, cook the chicken over medium-high heat for 5-7 minutes until browned on all sides.\n3. Add the diced tomatoes and simmer for 10-15 minutes until the chicken is cooked through.\n4. Serve with naan bread.",
+        "rating": 4.8
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aLAHJw7",
+        "category_id": "4",
+
+        "recipe_name": "Japanese Curry",
+        "ingredients": [
+            "1 pound of boneless chicken thigh",
+            "1 onion",
+            "2 carrots",
+            "2 potatoes",
+            "2 tablespoons of curry powder"
+        ],
+        "cooking_method": "1. In a large pot or wok, sauté the chicken until browned on all sides.\n2. Add the onion, carrots, and potatoes. Cook for 2-3 minutes until slightly softened.\n3. Add enough water to cover the vegetables and chicken. Bring to a boil, then reduce heat and simmer for 20-25 minutes.\n4. Add the curry powder and stir until combined. Serve over rice.",
+        "rating": 4.2
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aAWWe789",
+        "category_id": "5",
+
+        "recipe_name": "Mediterranean Curry Chicken",
+        "ingredients": [
+            "1 pound of bone-in chicken thighs",
+            "1 onion",
+            "2 cloves of garlic",
+            "1 tablespoon of Jamaican curry powder",
+            "1 can of coconut milk"
+        ],
+        "cooking_method": "1. In a large pot or Dutch oven, brown the chicken over medium-high heat.\n2. Remove the chicken from the pot and set aside.\n3. In the same pot, sauté the onion and garlic until softened.\n4. Add the curry powder and cook for 1-2 minutes until fragrant.\n5. Add the coconut milk and bring to a boil.\n6. Return the chicken to the pot and simmer for 20-25 minutes until cooked through.\n7. Serve with rice and",
+        "rating": 4.2
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aJHAj89900",
+        "category_id": "5",
+
+        "recipe_name": "Vegetable Curry with Chickpeas",
+        "ingredients": [
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 tbsp. olive oil",
+            "1 can chickpeas, drained and rinsed",
+            "1 cup chopped tomatoes",
+            "1 cup chopped zucchini",
+            "1 cup chopped eggplant",
+            "1 cup chopped bell pepper",
+            "1 cup vegetable broth",
+            "1 tsp. ground cumin",
+            "1 tsp. ground coriander",
+            "1/2 tsp. turmeric",
+            "1/4 tsp. cayenne pepper",
+            "1/4 tsp. salt",
+            "1/4 tsp. black pepper",
+            "2 tbsp. chopped fresh cilantro"
+        ],
+        "cooking_method": "Heat the olive oil in a large pot over medium-high heat. Add the onion and garlic and sauté until softened. Add the chickpeas, tomatoes, zucchini, eggplant, and bell pepper and stir to combine. Add the vegetable broth, cumin, coriander, turmeric, cayenne pepper, salt, and black pepper and bring to a boil. Reduce the heat and simmer for 20-25 minutes, or until the vegetables are tender. Stir in the cilantro and serve hot.",
+        "rating": 4.5
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aZsa567",
+        "category_id": "5",
+
+        "recipe_name": "Lamb and Eggplant Curry",
+        "ingredients": [
+            "1 lb. boneless lamb, cut into bite-sized pieces",
+            "1 eggplant, cut into bite-sized pieces",
+            "1 onion, chopped",
+            "2 garlic cloves, minced",
+            "1 tbsp. olive oil",
+            "1 cup chopped tomatoes",
+            "1 cup chicken broth",
+            "1 tsp. ground cumin",
+            "1 tsp. ground coriander",
+            "1/2 tsp. turmeric",
+            "1/4 tsp. cayenne pepper",
+            "1/4 tsp. salt",
+            "1/4 tsp. black pepper",
+            "2 tbsp. chopped fresh cilantro"
+        ],
+        "cooking_method": "Heat the olive oil in a large pot over medium-high heat. Add the lamb and sauté until browned on all sides. Add the eggplant, onion, and garlic and sauté for 5-7 minutes, or until the vegetables are softened. Add the tomatoes, chicken broth, cumin, coriander, turmeric, cayenne pepper, salt, and black pepper and bring to a boil. Reduce the heat and simmer for 30-35 minutes, or until the lamb is tender. Stir in the cilantro and serve hot.",
+        "rating": 4.8
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aaBdY",
+        "category_id": "5",
+
+        "recipe_name": "Spicy Mediterranean Beef Curry",
+        "ingredients": [
+            "1 lb beef sirloin, cubed",
+            "2 tbsp olive oil",
+            "1 onion, diced",
+            "3 cloves garlic, minced",
+            "1 red bell pepper, sliced",
+            "1 yellow bell pepper, sliced",
+            "1 can diced tomatoes",
+            "1 cup beef broth",
+            "2 tsp cumin",
+            "2 tsp coriander",
+            "1 tsp turmeric",
+            "1 tsp paprika",
+            "1/4 tsp cayenne pepper",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. Heat olive oil in a large pot over medium-high heat. Add beef and brown on all sides. Remove beef and set aside.\n2. Add onion, garlic, and peppers to the pot and sauté until soft.\n3. Add tomatoes, beef broth, and spices. Bring to a boil.\n4. Reduce heat to low and simmer for 30-40 minutes, or until beef is tender.\n5. Serve with rice or crusty bread.",
+        "rating": 4.5
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a77HUH",
+        "category_id": "6",
+
+        "recipe_name": "Mediterranean Beef and Chickpea Curry",
+        "ingredients": [
+            "1 lb beef stew meat",
+            "2 tbsp olive oil",
+            "1 onion, diced",
+            "3 cloves garlic, minced",
+            "1 red bell pepper, sliced",
+            "1 can chickpeas, drained and rinsed",
+            "1 can diced tomatoes",
+            "1 cup beef broth",
+            "2 tsp cumin",
+            "2 tsp coriander",
+            "1 tsp turmeric",
+            "1 tsp paprika",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. Heat olive oil in a large pot over medium-high heat. Add beef and brown on all sides. Remove beef and set aside.\n2. Add onion, garlic, and pepper to the pot and sauté until soft.\n3. Add chickpeas, tomatoes, beef broth, and spices. Bring to a boil.\n4. Reduce heat to low and simmer for 30-40 minutes, or until beef is tender.\n5. Serve with couscous or naan bread.",
+        "rating": 4.0
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a0090H",
+        "category_id": "6",
+
+        "recipe_name": "Mediterranean Beef and Eggplant Curry",
+        "ingredients": [
+            "1 lb beef sirloin, cubed",
+            "2 tbsp olive oil",
+            "1 onion, diced",
+            "3 cloves garlic, minced",
+            "1 eggplant, diced",
+            "1 can diced tomatoes",
+            "1 cup beef broth",
+            "2 tsp cumin",
+            "2 tsp coriander",
+            "1 tsp turmeric",
+            "1 tsp paprika",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. Heat olive oil in a large pot over medium-high heat. Add beef and brown on all sides. Remove beef and set aside.\n2. Add onion, garlic, and pepper to the pot and sauté until soft.\n3. Add chickpeas, tomatoes, beef broth, and spices. Bring to a boil.\n4. Reduce heat to low and simmer for 30-40 minutes, or until beef is tender.\n5. Serve with couscous or naan bread.",
+        "rating": 4.0
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aak78aj",
+        "category_id": "6",
+
+        "recipe_name": "Mediterranean Chicken Curry with Tomatoes and Olives",
+        "ingredients": [
+            "1 lb. boneless, skinless chicken breasts, cut into bite-sized pieces",
+            "2 tbsp. olive oil",
+            "1 onion, diced",
+            "2 cloves garlic, minced",
+            "1 can (14 oz.) diced tomatoes",
+            "1/2 cup pitted Kalamata olives",
+            "1 tsp. ground cumin",
+            "1 tsp. ground coriander",
+            "1 tsp. smoked paprika",
+            "1/4 tsp. cayenne pepper",
+            "Salt and pepper, to taste",
+            "1/4 cup chopped fresh parsley, for garnish"
+        ],
+        "cooking_method": "1. Heat the olive oil in a large skillet over medium-high heat. Add the chicken and cook until browned on all sides, about 5 minutes. Remove the chicken from the skillet and set aside.\n2. Add the onion and garlic to the skillet and cook until softened, about 5 minutes.\n3. Add the diced tomatoes, olives, cumin, coriander, smoked paprika, cayenne pepper, salt, and pepper to the skillet. Stir well to combine.\n4. Return the chicken to the skillet and stir to coat with the sauce. Bring the mixture to a simmer and cook until the chicken is cooked through, about 10-12 minutes.\n5. Serve hot, garnished with chopped fresh parsley.",
+        "rating": 4.5
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6ajs332d",
+        "category_id": "6",
+
+        "recipe_name": "Spicy Mediterranean Chicken Curry",
+        "ingredients": [
+            "1 lb. boneless, skinless chicken thighs, cut into bite-sized pieces",
+            "2 tbsp. olive oil",
+            "1 onion, diced",
+            "2 cloves garlic, minced",
+            "1 can (14 oz.) crushed tomatoes",
+            "1/2 cup sliced Kalamata olives",
+            "1/4 cup chopped fresh cilantro",
+            "1 tbsp. curry powder",
+            "1 tsp. ground cumin",
+            "1/2 tsp. ground cinnamon",
+            "1/2 tsp. ground ginger",
+            "1/2 tsp. cayenne pepper",
+            "Salt and pepper, to taste"
+        ],
+        "cooking_method": "1. Heat the olive oil in a large skillet over medium-high heat. Add the chicken and cook until browned on all sides, about 5 minutes. Remove the chicken from the skillet and set aside.\n2. Add the onion and garlic to the skillet and cook until softened, about 5 minutes.\n3. Add the crushed tomatoes, olives, cilantro, curry powder, cumin, cinnamon, ginger, cayenne pepper, salt, and pepper to the skillet. Stir well to combine.\n4. Return the chicken to the skillet and stir to coat with the sauce. Bring the mixture to a simmer and cook until the chicken is cooked through, about 10-12 minutes.\n5. Serve hot, over steamed rice or with naan bread.",
+        "rating": 4.0
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6amm55ds",
+        "category_id": "7",
+
+        "recipe_name": "Hummus",
+        "ingredients": [
+            "1 can of chickpeas, drained",
+            "3 tablespoons tahini",
+            "3 tablespoons lemon juice",
+            "1 clove garlic, minced",
+            "1/4 teaspoon ground cumin",
+            "1/4 cup olive oil",
+            "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. In a food processor, combine the chickpeas, tahini, lemon juice, garlic, and cumin. \n2. Slowly drizzle in the olive oil while blending until smooth. \n3. Season with salt and pepper to taste. \n4. Serve with pita bread or vegetables for dipping.",
+        "rating": 4.5
+    },
+    {
+        "_id":" 0282e0e58a5c404fbd15261f11c2ab6aha432d1s",
+        "category_id": "7",
+
+        "recipe_name": "Greek Salad",
+        "ingredients": [
+            "2 cups cherry tomatoes, halved",
+            "1 cucumber, chopped",
+            "1 red onion, sliced",
+            "1 green bell pepper, chopped",
+            "1/2 cup kalamata olives, pitted",
+            "4 oz feta cheese, crumbled",
+            "1/4 cup olive oil",
+            "2 tablespoons red wine vinegar",
+            "1 tablespoon fresh oregano, chopped",
+            "Salt and pepper to taste"
+        ],
+        "cooking_method": "1. In a large bowl, combine the cherry tomatoes, cucumber, red onion, bell pepper, and kalamata olives. \n2. In a small bowl, whisk together the olive oil, red wine vinegar, oregano, salt, and pepper. \n3. Pour the dressing over the salad and toss to combine. \n4. Sprinkle the crumbled feta cheese on top. \n5. Serve immediately.",
+        "rating": 4.7
+    },
+    {
+        "_id":" 0282e0e58a5c404fbd15261f11c2ab6aopo8790j",
+        "category_id": "7",
+
+        "recipe_name": "Mediterranean Grilled Chicken",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1/4 cup olive oil",
+            "1/4 cup lemon juice",
+            "2 cloves garlic, minced",
+            "2 teaspoons dried oregano",
+            "1 teaspoon salt",
+            "1/2 teaspoon black pepper"
+        ],
+        "cooking_method": "1. In a small bowl, whisk together the olive oil, lemon juice, garlic, oregano, salt, and pepper. \n2. Place the chicken breasts in a large resealable plastic bag. \n3. Pour the marinade over the chicken and seal the bag. \n4. Refrigerate for at least 1 hour, or overnight. \n5. Preheat a grill to medium-high heat. \n6. Grill the chicken for 6-8 minutes per side, or until cooked through. \n7. Serve with a side salad or grilled vegetables.",
+        "rating": 4.8
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aja45110a",
+        "category_id": "7",
+
+        "recipe_name": "Mediterranean Grilled Chicken",
+        "ingredients": [
+            "4 boneless, skinless chicken breasts",
+            "1/4 cup olive oil",
+            "3 cloves garlic, minced",
+            "1 tsp dried oregano",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "1 lemon, juiced",
+            "1/4 cup fresh parsley, chopped"
+        ],
+        "cooking_method": "Preheat grill to medium-high heat. In a small bowl, whisk together olive oil, garlic, oregano, salt, black pepper, and lemon juice. Brush chicken breasts with mixture and place on grill. Cook for 6-8 minutes per side or until cooked through. Sprinkle with fresh parsley before serving.",
+        "rating": 4.5
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aha7s",
+        "category_id": "8",
+
+        "recipe_name": "Mediterranean Hummus Wrap",
+        "ingredients": [
+            "1 large whole wheat tortilla",
+            "1/4 cup hummus",
+            "1/4 cup cherry tomatoes, halved",
+            "1/4 cup cucumber, sliced",
+            "1/4 cup red onion, sliced",
+            "1/4 cup feta cheese, crumbled",
+            "1/4 cup kalamata olives, chopped"
+        ],
+        "cooking_method": "Lay the tortilla flat on a clean surface. Spread the hummus evenly over the tortilla, leaving a 1-inch border around the edges. Layer the cherry tomatoes, cucumber, red onion, feta cheese, and kalamata olives on top of the hummus. Roll up the tortilla tightly, tucking in the sides as you go. Cut in half and serve.",
+        "rating": 4.2
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6alk781ui",
+        "category_id": "8",
+
+        "recipe_name": "Mediterranean Quinoa Salad",
+        "ingredients": [
+            "1 cup quinoa, rinsed and drained",
+            "2 cups water",
+            "1/4 cup olive oil",
+            "2 tbsp lemon juice",
+            "2 cloves garlic, minced",
+            "1 tsp dried oregano",
+            "1/2 tsp salt",
+            "1/4 tsp black pepper",
+            "1/4 cup fresh parsley, chopped",
+            "1/4 cup fresh mint, chopped",
+            "1/4 cup red onion, diced",
+            "1/4 cup cherry tomatoes, halved",
+            "1/4 cup cucumber, diced",
+            "1/4 cup feta cheese, crumbled",
+            "1/4 cup kalamata olives, chopped"
+        ],
+        "cooking_method": "In a medium saucepan, bring water and quinoa to a boil. Reduce heat to low, cover, and simmer for 15-20 minutes or until water is absorbed and quinoa is tender. In a small bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and black pepper. In a large bowl, combine cooked quinoa, fresh parsley, fresh mint, red onion, cherry tomatoes, cucumber, feta cheese, and kalamata olives. Pour the dressing over the salad and toss to combine. Serve at room temperature or chilled.",
+        "rating": 4.8
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6amv890a",
+        "category_id": "8",
+
+        "recipe_name": "Mediterranean Salad",
+        "ingredients": [
+          "1 large cucumber, diced",
+          "4 ripe tomatoes, diced",
+          "1 small red onion, finely chopped",
+          "1/2 cup chopped fresh parsley",
+          "1/4 cup chopped fresh mint",
+          "1/4 cup extra-virgin olive oil",
+          "2 tablespoons lemon juice",
+          "1 clove garlic, minced",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper"
+        ],
+        "cooking_method": "1. In a large bowl, combine the cucumber, tomatoes, red onion, parsley, and mint. \n2. In a small bowl, whisk together the olive oil, lemon juice, garlic, salt, and black pepper. \n3. Pour the dressing over the salad and toss to combine. \n4. Serve chilled.",
+        "rating": 4.5
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aty710a",
+        "category_id": "8",
+        
+        "recipe_name": "Grilled Chicken Kebabs",
+        "ingredients": [
+          "1 pound boneless, skinless chicken breasts, cut into 1-inch cubes",
+          "1 large red onion, cut into 1-inch cubes",
+          "1 red bell pepper, cut into 1-inch cubes",
+          "1 yellow bell pepper, cut into 1-inch cubes",
+          "1/4 cup olive oil",
+          "2 tablespoons lemon juice",
+          "1 teaspoon dried oregano",
+          "1 teaspoon ground cumin",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper"
+        ],
+        "cooking_method": "1. In a large bowl, combine the chicken, onion, bell peppers, olive oil, lemon juice, oregano, cumin, salt, and black pepper. \n2. Toss to coat the chicken and vegetables evenly. \n3. Thread the chicken and vegetables onto skewers. \n4. Preheat a grill to medium-high heat. \n5. Grill the kebabs, turning occasionally, until the chicken is cooked through and the vegetables are tender, about 10-12 minutes. \n6. Serve hot.",
+        "rating": 4.2
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6aui001a",
+        "category_id": "8",
+            
+        "recipe_name": "Hummus",
+        "ingredients": [
+          "2 cups canned chickpeas, drained and rinsed",
+          "1/4 cup tahini",
+          "2 cloves garlic, minced",
+          "1/4 cup lemon juice",
+          "1/4 cup water",
+          "1/4 cup olive oil",
+          "1/2 teaspoon ground cumin",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper"
+        ],
+        "cooking_method": "1. In a food processor, combine the chickpeas, tahini, garlic, lemon juice, water, olive oil, cumin, salt, and black pepper. \n2. Process until smooth and creamy. \n3. Taste and adjust the seasoning as needed. \n4. Transfer the hummus to a serving bowl. \n5. Drizzle with a little olive oil and sprinkle with paprika, if desired. \n6",
+        "rating": 4.2
+    }
+]
