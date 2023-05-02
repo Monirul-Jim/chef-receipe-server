@@ -518,8 +518,8 @@
     {
         "_id":" 0282e0e58a5c404fbd15261f11c2ab6aha432d1s",
         "category_id": "7",
-        "food_picture":"",
-        "recipe_name": "Greek Salad",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrqKO-nwifwCcI9OS3W7T0dHRWrrw_JqBXGqrZmqoPZBlKTZ1MjjKViFKa4kUguSgWDMg&usqp=CAU",
+        "recipe_name": "Mediterranean Salad",
         "ingredients": [
             "2 cups cherry tomatoes, halved",
             "1 cucumber, chopped",
@@ -538,7 +538,7 @@
     {
         "_id":" 0282e0e58a5c404fbd15261f11c2ab6aopo8790j",
         "category_id": "7",
-        "food_picture":"",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJqCr38CacV9C5c0yHEf8WM5hFBfgBEKjYyosPsdllQKvtbe1ftkFNKciFOl854r9LRPY&usqp=CAU",
         "recipe_name": "Mediterranean Grilled Chicken",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
@@ -555,7 +555,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aja45110a",
         "category_id": "7",
-        "food_picture":"",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDqi1RGhbsaioT81YsTjbSx5GuN8JP1gxgsx7kaZFtC2aIasrT8-LQAsS_wSBEncZj7Hw&usqp=CAU",
         "recipe_name": "Mediterranean Grilled Chicken",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
@@ -573,7 +573,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aha7s",
         "category_id": "8",
-        "food_picture":"",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVIuZyiQQez0EPucKbdX-8Hk9cYHAf2r804JpxcXGx2CgNVEOkn-sBOngKc83ag8Fx8u4&usqp=CAU",
         "recipe_name": "Mediterranean Hummus Wrap",
         "ingredients": [
             "1 large whole wheat tortilla",
@@ -590,7 +590,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6alk781ui",
         "category_id": "8",
-        "food_picture":"",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwJYjHhBCz1Pe-M9rfZWUXcKGAwP1Uy53wek_dPAyVrMktPzlDBq1uccZpZJ_7kXcpPqo&usqp=CAU",
         "recipe_name": "Mediterranean Quinoa Salad",
         "ingredients": [
             "1 cup quinoa, rinsed and drained",
@@ -615,7 +615,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6amv890a",
         "category_id": "8",
-        "food_picture":"",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAZ5ouIF3YBU5Nvx4ZkygFooN7hOPB3OFSD_Cws_yNNkG68CaMa1K7KeZuPWEzAde6nLo&usqp=CAU",
         "recipe_name": "Mediterranean Salad",
         "ingredients": [
           "1 large cucumber, diced",
@@ -635,7 +635,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aty710a",
         "category_id": "8",
-        "food_picture":"",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrJvHapaLwGIIaLnEi32w0kLinnzrzZrpVCAFjShTFmmIQXViSCbnkbSDHUVc5BFqk6Y&usqp=CAU",
         "recipe_name": "Grilled Chicken Kebabs",
         "ingredients": [
           "1 pound boneless, skinless chicken breasts, cut into 1-inch cubes",
@@ -655,7 +655,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aui001a",
         "category_id": "8",
-        "food_picture":"",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREEdoTXdbpcFzU9YkL9EkUmrxpiWx4Pft7Xtbu04NxUxkBRYCsaEKP7KSuR76iu-nTyhE&usqp=CAU",
         "recipe_name": "Hummus",
         "ingredients": [
           "2 cups canned chickpeas, drained and rinsed",
