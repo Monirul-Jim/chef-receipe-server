@@ -83,7 +83,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6afe66",
         "category_id": "2",
-        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBm_FZMNXqa2h1Mfd7n8LNphIAxaxXOPWU2Nfv8EmPgguwiVw7DMeEOh2FjJjVH9eWveA&usqp=CAU",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4B3nNOjktiwnN52h-CvMP9s7xKgQ94x-yHzbbaGBAOycPmy6I2-bOKqtAHnIEN5Hgztk&usqp=CAU",
         "recipe_name": "Classic Chicken Curry",
         "ingredients": [
             "1 lb boneless chicken",
@@ -106,8 +106,8 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6ae0",
         "category_id": "2",
-
-        "recipe_name": "Thai Red Curry Chicken",
+        "food_picture":"https://lh3.googleusercontent.com/K50ybE4ftQGi7UcbDiT_HZZZr8NiL7mAi-zNVxzKIqrR0fDjpa3hukDBXkpAkpxIh9uO-AwDdVDAn_zlOzqfny1_wQFxbNQ-3w=w1280-h960-c-rj-v1-e365",
+        "recipe_name": "Mediterranean Red Curry Chicken",
         "ingredients": [
             "1 lb boneless chicken",
             "1 onion",
@@ -128,8 +128,8 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aBad",
         "category_id": "2",
-
-        "recipe_name": "Indian Butter Chicken",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpFBK_UZOczDDbAt4iosRmKCcjKVMnF2PfNf4ZZ-SOdT3pNAe5TOf3eE7ypkk5elOFzY&usqp=CAU",
+        "recipe_name": "Mediterranean Butter Chicken",
         "ingredients": [
             "1 lb boneless chicken",
             "1 onion",
@@ -151,7 +151,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aMA4",
         "category_id": "2",
-
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS71Bepmq_eD-yrGJrCoOq4951YmP8iwvmYokiqWkAfKetrO1zJeIibYRyMkq07iXt0pMw&usqp=CAU",
         "recipe_name": "Spicy Mutton Curry",
         "ingredients": [
             "1 kg mutton",
@@ -171,7 +171,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a&H",
         "category_id": "3",
-
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4PSgcECxm4PbehBT4SPZWnUxNNY2l0_ybZONWILlgHead7FdVup_p1rohrjRMg0HEu0g&usqp=CAU",
         "recipe_name": "Mughlai Mutton Curry",
         "ingredients": [
             "1 kg mutton",
@@ -193,8 +193,8 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aGHas",
         "category_id": "3",
-
-        "recipe_name": "Kashmiri Mutton Curry",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMkh4zCesrhUXy2IrUpu3NcUSVA_FzdZDjHaH2RH6Khb1qAOaVdHGcR1cn3CsjrCx3Up8&usqp=CAU",
+        "recipe_name": "Mediterranean Mutton Curry",
         "ingredients": [
             "1 kg mutton",
             "2 onions",
@@ -215,7 +215,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aKah",
         "category_id": "3",
-
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu35wepF9L1qu_5X0WPzNefDm050iUGsyCQ3QdK3vJ2ptYdjdaE3p4-oMDwe5LtW3ryWU&usqp=CAU",
         "recipe_name": "Spicy Chicken Soup Curry",
         "ingredients": [
             "1 lb boneless chicken thighs",
@@ -236,7 +236,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aBHsa",
         "category_id": "3",
-
+        "food_picture":"https://www.themediterraneandish.com/wp-content/uploads/2022/01/chickpea-soup-recipe-5.jpg",
         "recipe_name": "Vegetarian Soup Curry",
         "ingredients": [
             "1 onion, diced",
@@ -257,7 +257,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aASUde",
         "category_id": "4",
-
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh4BBZM3-Tim6VfnZUvB8a2imMtZBvgV-9X5IqP1v3liLwhU3crEAgAfEmR2qZQ-PCxqE&usqp=CAU",
         "recipe_name": "Beef Soup Curry",
         "ingredients": [
             "1 lb beef chuck, cut into bite-sized pieces",
@@ -277,8 +277,8 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aHJA3s",
         "category_id": "4",
-
-        "recipe_name": "Thai Green Curry",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN1vkYEvfAPsXVeq2ewtUv5AsO-vDuZ5qVvPYKs3So3cP6UX3HhKrFME9kzp3zByfTDF0&usqp=CAU",
+        "recipe_name": "Mediterranean Green Curry",
         "ingredients": [
             "1 can of coconut milk",
             "2 tablespoons of green curry paste",
@@ -292,8 +292,8 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aJA899",
         "category_id": "4",
-
-        "recipe_name": "Indian Butter Chicken",
+        "food_picture":"https://www.familyfoodonthetable.com/wp-content/uploads/2019/02/Healthy-butter-chicken-4.jpg",
+        "recipe_name": "Mediterranean Butter Chicken",
         "ingredients": [
             "1 pound of boneless chicken breast",
             "1 cup of plain yogurt",
@@ -307,8 +307,8 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aLAHJw7",
         "category_id": "4",
-
-        "recipe_name": "Japanese Curry",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbjr6XGoI0cUamKFJn2uBtXx8ZCraUq--0JfGBfuMcWLxPRVGGPbDPbYh01XGKF9-_Xcs&usqp=CAU",
+        "recipe_name": "Mediterranean Curry",
         "ingredients": [
             "1 pound of boneless chicken thigh",
             "1 onion",
@@ -322,7 +322,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aAWWe789",
         "category_id": "5",
-
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqaubyd_im2KGBv7ghUlcWC10BmhdJNyKbr1IxMdcvdlDYP3M-O9jKN3EPvit_uZ6ryyU&usqp=CAU",
         "recipe_name": "Mediterranean Curry Chicken",
         "ingredients": [
             "1 pound of bone-in chicken thighs",
@@ -337,7 +337,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aJHAj89900",
         "category_id": "5",
-
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScPhviaJSm7istyDS94AnkpxC5UkPCrfFIDW3qeBELIxMG2knSmGZ2o9vuAkMlaeLO7Y4&usqp=CAU",
         "recipe_name": "Vegetable Curry with Chickpeas",
         "ingredients": [
             "1 onion, chopped",
@@ -363,7 +363,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aZsa567",
         "category_id": "5",
-
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZYiBn3KPw1sQfNtR1WIMLO-fJw0wzPyWyb47ict7y9eZeuWVGrHwWxx7XKBYOkKHyu0A&usqp=CAU",
         "recipe_name": "Lamb and Eggplant Curry",
         "ingredients": [
             "1 lb. boneless lamb, cut into bite-sized pieces",
@@ -387,7 +387,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aaBdY",
         "category_id": "5",
-
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxs4F4_6_0yvEv3N3MLNZWM46KahEjJOjiU3NdepyWhw9B8-I7iwcE--QiUSy9vkrJBQk&usqp=CAU",
         "recipe_name": "Spicy Mediterranean Beef Curry",
         "ingredients": [
             "1 lb beef sirloin, cubed",
@@ -411,7 +411,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a77HUH",
         "category_id": "6",
-
+        "food_picture":"https://i0.wp.com/panoseats.com/wp-content/uploads/2020/08/Groundbeefandchickpeas5.jpg?fit=1280%2C1280&ssl=1",
         "recipe_name": "Mediterranean Beef and Chickpea Curry",
         "ingredients": [
             "1 lb beef stew meat",
@@ -434,7 +434,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a0090H",
         "category_id": "6",
-
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC_gUYCyHiwdPoTLyEtQHeFOFf15cZnm2CO9sMxAZEoe150dCtjzeG6FRnFm2UhIr7-yI&usqp=CAU",
         "recipe_name": "Mediterranean Beef and Eggplant Curry",
         "ingredients": [
             "1 lb beef sirloin, cubed",
@@ -456,7 +456,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aak78aj",
         "category_id": "6",
-
+        "food_picture":"",
         "recipe_name": "Mediterranean Chicken Curry with Tomatoes and Olives",
         "ingredients": [
             "1 lb. boneless, skinless chicken breasts, cut into bite-sized pieces",
@@ -478,7 +478,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6ajs332d",
         "category_id": "6",
-
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwmBrBY3TCcxiclm3BJYHulKhnzCdUnuLMWhBRys4bQMCl4ivOD1AJl3OIKjWBMfPrSUk&usqp=CAU",
         "recipe_name": "Spicy Mediterranean Chicken Curry",
         "ingredients": [
             "1 lb. boneless, skinless chicken thighs, cut into bite-sized pieces",
@@ -501,7 +501,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6amm55ds",
         "category_id": "7",
-
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq1cnDzu_SXmXKiJJKcror3GyjrkBKng9wxQbQaZmfD1x4TTNQ8A9IfNDJOmyOPo46YIM&usqp=CAU",
         "recipe_name": "Hummus",
         "ingredients": [
             "1 can of chickpeas, drained",
@@ -518,7 +518,7 @@
     {
         "_id":" 0282e0e58a5c404fbd15261f11c2ab6aha432d1s",
         "category_id": "7",
-
+        "food_picture":"",
         "recipe_name": "Greek Salad",
         "ingredients": [
             "2 cups cherry tomatoes, halved",
@@ -538,7 +538,7 @@
     {
         "_id":" 0282e0e58a5c404fbd15261f11c2ab6aopo8790j",
         "category_id": "7",
-
+        "food_picture":"",
         "recipe_name": "Mediterranean Grilled Chicken",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
@@ -555,7 +555,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aja45110a",
         "category_id": "7",
-
+        "food_picture":"",
         "recipe_name": "Mediterranean Grilled Chicken",
         "ingredients": [
             "4 boneless, skinless chicken breasts",
@@ -573,7 +573,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aha7s",
         "category_id": "8",
-
+        "food_picture":"",
         "recipe_name": "Mediterranean Hummus Wrap",
         "ingredients": [
             "1 large whole wheat tortilla",
@@ -590,7 +590,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6alk781ui",
         "category_id": "8",
-
+        "food_picture":"",
         "recipe_name": "Mediterranean Quinoa Salad",
         "ingredients": [
             "1 cup quinoa, rinsed and drained",
@@ -615,7 +615,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6amv890a",
         "category_id": "8",
-
+        "food_picture":"",
         "recipe_name": "Mediterranean Salad",
         "ingredients": [
           "1 large cucumber, diced",
@@ -635,7 +635,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aty710a",
         "category_id": "8",
-        
+        "food_picture":"",
         "recipe_name": "Grilled Chicken Kebabs",
         "ingredients": [
           "1 pound boneless, skinless chicken breasts, cut into 1-inch cubes",
@@ -655,7 +655,7 @@
       {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aui001a",
         "category_id": "8",
-            
+        "food_picture":"",
         "recipe_name": "Hummus",
         "ingredients": [
           "2 cups canned chickpeas, drained and rinsed",
