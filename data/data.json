@@ -5,15 +5,17 @@
         "chef_name": "Mustapha Haj Omar",
         "years_of_experience": "10 years",
         "num_recipes": 10,
-        "likes": 1000
+        "likes":"1M",
+        "description":"Mustapha Haj Omar is a chef with 10 years of experience in the culinary industry. He has created 10 recipes and has gained 1000 likes for his work. His passion for cooking has driven him to master his craft and create delicious meals that people enjoy. With his years of experience, Mustapha has developed a keen sense of taste and an eye for detail, allowing him to create dishes that are not only delicious but also visually appealing. His commitment to his work has made him a respected and admired chef in the industry."
     },
     {
         "id": 2,
         "chef_picture": "https://i.insider.com/60a29f4e1b5cea0019c4556c?width=700",
-        "chef_name": "Geoffrey Zakarian",
+        "chef_name": "Zakarian",
         "years_of_experience":" 8 years",
         "num_recipes": 7,
-        "likes": 800
+        "likes": "990k",
+        "description":"Chef Zakarian is a renowned chef with 8 years of experience in the culinary industry. He is well-known for his culinary skills and has created a name for himself in the food world. With a portfolio of 7 recipes, Chef Zakarian has impressed many with his creativity and attention to detail when it comes to food preparation. Chef Zakarian's passion for cooking is reflected in the quality of his dishes, and he is known for his use of fresh, high-quality ingredients. He has a unique ability to combine different flavors and textures to create delicious and innovative dishes that leave a lasting impression on diners. With a following of over 990k fans, Chef Zakarian is loved by many for his charismatic personality and ability to inspire others to cook and experiment in the kitchen. He is a role model to aspiring chefs and a true culinary icon."
     },
     {
         "id": 3,
@@ -21,7 +23,8 @@
         "chef_name": "Mike Johnson",
         "years_of_experience": "15 years",
         "num_recipes": 6,
-        "likes": 1500
+        "likes": "1.5M",
+        "description":"Mike Johnson, the chef in the provided description, has 15 years of experience in the culinary industry. He has created six recipes, which have likely been well received by diners or customers, considering he has garnered 1.5 million likes. Chefs like Mike Johnson possess extensive knowledge of ingredients, cooking techniques, and flavor profiles. They often work in high-pressure environments, with tight deadlines and exacting standards for taste, presentation, and consistency. In addition to being skilled at cooking, chefs must also be excellent managers and communicators, as they are responsible for leading and directing kitchen staff, including sous chefs, line cooks, and dishwashers."
     },
     {
         "id": 4,
@@ -29,7 +32,8 @@
         "chef_name": "Chef Abdul",
         "years_of_experience":" 5 years",
         "num_recipes": 7,
-        "likes": 500
+        "likes": "500k",
+        "description":"Chef Abdul is a skilled chef with 5 years of experience in the culinary industry. He has become quite popular in the cooking community, with 500k likes on his social media platforms. Chef Abdul has created and shared 7 unique and delicious recipes that have gained widespread recognition and acclaim. He is passionate about his craft and is constantly experimenting with new ingredients and techniques to create innovative and flavorful dishes. From his picture, it appears that Chef Abdul specializes in Mediterranean cuisine, although he may have expertise in other types of cuisine as well."
     },
     {
         "id": 5,
@@ -37,7 +41,8 @@
         "chef_name": "Mubarak",
         "years_of_experience": "12 years",
         "num_recipes": 9,
-        "likes": 1200
+        "likes": "1.4M",
+        "description":"The chef, Mubarak, has 12 years of experience in the culinary industry. This means he has likely worked in a variety of kitchens, honing his skills and learning different cooking techniques. With 9 recipes to his name, he has likely created a signature style and developed his own unique flavor combinations. His popularity is evident by the 1.4 million likes he has received, which suggests that his cooking is well-received by a large number of people. As a chef, he may have his own restaurant, work in a hotel or resort, or even appear on cooking shows or social media platforms. Overall, a chef like Mubarak is a skilled and talented individual who has dedicated his career to the art of cooking and creating delicious food."
     },
     {
         "id": 6,
@@ -45,7 +50,8 @@
         "chef_name": "Lis Johnson",
         "years_of_experience":" 7 years",
         "num_recipes": 5,
-        "likes": 700
+        "likes": "900k",
+        "description":"Chef Lis Johnson is a professional chef with 7 years of experience in the culinary industry. She is known for her innovative and creative approach to cooking, and has gained popularity through her delicious and unique recipes. She has created 5 recipes that have been well received by her audience and has gained a significant following with over 900k likes. Her passion for cooking is evident in her work, and she continues to inspire others with her culinary creations."
     },
     {
         "id": 7,
@@ -53,7 +59,8 @@
         "chef_name": "Suzy Karadsheh",
         "years_of_experience":" 9 years",
         "num_recipes": 8,
-        "likes": 900
+        "likes": "2M",
+        "description":"Suzy Karadsheh is a chef with 9 years of experience in cooking and recipe development. She is known for her expertise in Mediterranean cuisine and her passion for sharing her knowledge with others. Suzy has created 8 recipes that have gained popularity among food enthusiasts, and her cooking style emphasizes the use of fresh and healthy ingredients. She has gained a significant following on social media, with 2 million likes, where she shares her culinary creations and cooking tips. Her dedication to the art of cooking has earned her a reputation as a skilled and respected chef in the culinary world."
     },
     {
         "id": 8,
@@ -61,6 +68,7 @@
         "chef_name": "Mustafa Ali",
         "years_of_experience": "11 years",
         "num_recipes": 9,
-        "likes": 1100
+        "likes": "2.1M",
+        "description":"Chef Mustafa Ali is a professional chef with 11 years of experience in the culinary industry. He is known for his exceptional cooking skills and his ability to create unique and delicious recipes. Chef Mustafa has a strong online presence and is admired by many food enthusiasts. He has created 9 original recipes which have been well received by his followers and fans. His dishes are often praised for their combination of flavors and his attention to detail when it comes to presentation. Chef Mustafa has gained a significant following with over 2.1 million likes on social media platforms, and his recipes have been shared and tried by many people worldwide."
     }
 ]

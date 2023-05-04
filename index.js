@@ -24,8 +24,9 @@ app.get('/categories/:id', (req, res) => {
 })
 app.get('/data/:id', (req, res) => {
     const id = parseInt(req.params.id)
+    const datas=data.find(n=>n.id==id)
     const categoryData = category.filter(n => parseInt(n.category_id) === id)
-    res.send(categoryData)
+    res.send({categoryData,datas})
 })
 app.listen(port, (req, res) => {
     console.log('the chef recipe is loading');

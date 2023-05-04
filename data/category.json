@@ -19,7 +19,14 @@
             "cayenne pepper"
         ],
         "cooking_method": "1. Heat oil in a large pot over medium heat. Add onion and cook until softened, about 5 minutes. Add garlic and ginger and cook for another minute. \n2. Add beef and cook until browned on all sides. \n3. Add coconut milk, tomatoes, and potatoes. Bring to a simmer and cook until the beef is tender and the potatoes are cooked through, about 30 minutes. \n4. Stir in curry powder, cumin, coriander, paprika, and cayenne pepper. \n5. Serve with rice or naan bread.",
-        "rating": 4.5
+        "rating": 4.5,
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDwQDYNdhvqfCeeyXG1Gi1ESD9AD_PvulJEodxHwgP9wOvGLansuS9R1ILQfpi9hLdjyU&usqp=CAU",
+        "chef_name": "Mustapha Haj Omar",
+        "years_of_experience": "10 years",
+        "num_recipes": 10,
+        "likes":"1M",
+        "description":"Mustapha Haj Omar is a chef with 10 years of experience in the culinary industry. He has created 10 recipes and has gained 1000 likes for his work. His passion for cooking has driven him to master his craft and create delicious meals that people enjoy. With his years of experience, Mustapha has developed a keen sense of taste and an eye for detail, allowing him to create dishes that are not only delicious but also visually appealing. His commitment to his work has made him a respected and admired chef in the industry."
+
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
@@ -59,7 +66,7 @@
             "basil leaves"
         ],
         "cooking_method": "1. Heat oil in a large pot over medium heat. Add green curry paste and cook for a minute. \n2. Add beef and cook until browned on all sides. \n3. Add coconut milk and bring to a simmer. \n4. Add bamboo shoots, green beans, and bell pepper. Cook until vegetables are tender, about 10 minutes. \n5. Stir in basil leaves. \n6. Serve with rice.",
-        "rating": 4.8
+        "rating": 4.8   
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aef7",
@@ -78,7 +85,7 @@
             "palm sugar"
         ],
         "cooking_method": "1. Heat oil in a large pot over medium heat. Add massaman curry paste and cook for a minute. \n2. Add Add beef and cook until browned on all sides. \n3. Add coconut milk and bring to a simmer. \n4. Add bamboo shoots, green beans, and bell pepper. Cook until vegetables are tender, about 10 minutes. \n5. Stir in basil leaves. \n6. Serve with rice.",
-        "rating": 4.8
+        "rating": 4.8  
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6afe66",
@@ -101,12 +108,18 @@
             "Salt to taste"
         ],
         "cooking_method": "1. Heat oil in a pan and add cumin seeds. 2. Add chopped onions, garlic, and ginger and fry until golden brown. 3. Add chopped tomatoes and cook until they become soft. 4. Add the spices and fry for a minute. 5. Add the chicken and cook for 10-12 minutes. 6. Add coconut milk and salt to taste. 7. Simmer for another 5 minutes. Serve hot with rice or naan bread.",
-        "rating": 4.5
+        "rating": 4.5,
+        "chef_picture": "https://i.insider.com/60a29f4e1b5cea0019c4556c?width=700",
+        "chef_name": "Zakarian",
+        "years_of_experience":" 8 years",
+        "num_recipes": 7,
+        "likes": "990k",
+        "description":"Chef Zakarian is a renowned chef with 8 years of experience in the culinary industry. He is well-known for his culinary skills and has created a name for himself in the food world. With a portfolio of 7 recipes, Chef Zakarian has impressed many with his creativity and attention to detail when it comes to food preparation. Chef Zakarian's passion for cooking is reflected in the quality of his dishes, and he is known for his use of fresh, high-quality ingredients. He has a unique ability to combine different flavors and textures to create delicious and innovative dishes that leave a lasting impression on diners. With a following of over 990k fans, Chef Zakarian is loved by many for his charismatic personality and ability to inspire others to cook and experiment in the kitchen. He is a role model to aspiring chefs and a true culinary icon."
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6ae0",
         "category_id": "2",
-        "food_picture":"https://lh3.googleusercontent.com/K50ybE4ftQGi7UcbDiT_HZZZr8NiL7mAi-zNVxzKIqrR0fDjpa3hukDBXkpAkpxIh9uO-AwDdVDAn_zlOzqfny1_wQFxbNQ-3w=w1280-h960-c-rj-v1-e365",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPJ2IUByxGtxg_Usxy1ZOy4AYyafWhm0wWGfquwdjxGZUcI1h4yFJFIkvfoOsskklsRZo&usqp=CAU",
         "recipe_name": "Mediterranean Red Curry Chicken",
         "ingredients": [
             "1 lb boneless chicken",
@@ -188,7 +201,14 @@
             "salt to taste"
         ],
         "cooking_method": "1. Heat oil in a pan.\n2. Add cumin seeds and fry for a minute.\n3. Add onions and fry until golden brown.\n4. Add ginger and garlic paste and fry for a minute.\n5. Add tomatoes and fry until soft.\n6. Add mutton, red chilli powder, turmeric powder, coriander powder, and salt to taste. Mix well.\n7. Add yogurt and mix well.\n8. Cover and cook for 20-25 minutes or until the mutton is tender.\n9. Serve hot with rice or naan.",
-        "rating": "4.8"
+        "rating": "4.8",
+        "chef_picture": "https://img.freepik.com/premium-photo/chef-preparing-dish-with-seafood-shrimps-mediterranean-cuisine-concept_199620-9192.jpg?w=2000",
+        "chef_name": "Mike Johnson",
+        "years_of_experience": "15 years",
+        "num_recipes": 6,
+        "likes": "1.5M",
+        "description":"Mike Johnson, the chef in the provided description, has 15 years of experience in the culinary industry. He has created six recipes, which have likely been well received by diners or customers, considering he has garnered 1.5 million likes. Chefs like Mike Johnson possess extensive knowledge of ingredients, cooking techniques, and flavor profiles. They often work in high-pressure environments, with tight deadlines and exacting standards for taste, presentation, and consistency. In addition to being skilled at cooking, chefs must also be excellent managers and communicators, as they are responsible for leading and directing kitchen staff, including sous chefs, line cooks, and dishwashers."
+
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aGHas",
@@ -272,7 +292,14 @@
             "Salt and pepper to taste"
         ],
         "cooking_method": "1. In a large pot, sauté the onion and beef until browned. \n2. Add the carrot, potato, kale, curry powder, and garam masala. Cook for a few minutes until fragrant. \n3. Add the beef broth and coconut milk. Bring to a boil, then reduce heat and simmer for 30 minutes or until vegetables are tender. \n4. Season with salt and pepper to taste.",
-        "rating": 4.2
+        "rating": 4.2,
+        "chef_picture": "https://chefabdulmediterranean.com/assets/img/ChefAbdul.jpg",
+        "chef_name": "Chef Abdul",
+        "years_of_experience":" 5 years",
+        "num_recipes": 7,
+        "likes": "500k",
+        "description":"Chef Abdul is a skilled chef with 5 years of experience in the culinary industry. He has become quite popular in the cooking community, with 500k likes on his social media platforms. Chef Abdul has created and shared 7 unique and delicious recipes that have gained widespread recognition and acclaim. He is passionate about his craft and is constantly experimenting with new ingredients and techniques to create innovative and flavorful dishes. From his picture, it appears that Chef Abdul specializes in Mediterranean cuisine, although he may have expertise in other types of cuisine as well."
+  
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aHJA3s",
@@ -332,7 +359,14 @@
             "1 can of coconut milk"
         ],
         "cooking_method": "1. In a large pot or Dutch oven, brown the chicken over medium-high heat.\n2. Remove the chicken from the pot and set aside.\n3. In the same pot, sauté the onion and garlic until softened.\n4. Add the curry powder and cook for 1-2 minutes until fragrant.\n5. Add the coconut milk and bring to a boil.\n6. Return the chicken to the pot and simmer for 20-25 minutes until cooked through.\n7. Serve with rice and",
-        "rating": 4.2
+        "rating": 4.2,
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtmup91JoV6M0Tjj5MqpI7hpJLLC_fp0tHCFwab_0m4AoqMV8wNrSUK8ESVsF1G_1CNNU&usqp=CAU",
+        "chef_name": "Mubarak",
+        "years_of_experience": "12 years",
+        "num_recipes": 9,
+        "likes": "1.4M",
+        "description":"The chef, Mubarak, has 12 years of experience in the culinary industry. This means he has likely worked in a variety of kitchens, honing his skills and learning different cooking techniques. With 9 recipes to his name, he has likely created a signature style and developed his own unique flavor combinations. His popularity is evident by the 1.4 million likes he has received, which suggests that his cooking is well-received by a large number of people. As a chef, he may have his own restaurant, work in a hotel or resort, or even appear on cooking shows or social media platforms. Overall, a chef like Mubarak is a skilled and talented individual who has dedicated his career to the art of cooking and creating delicious food."
+  
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aJHAj89900",
@@ -429,7 +463,14 @@
             "Salt and pepper, to taste"
         ],
         "cooking_method": "1. Heat olive oil in a large pot over medium-high heat. Add beef and brown on all sides. Remove beef and set aside.\n2. Add onion, garlic, and pepper to the pot and sauté until soft.\n3. Add chickpeas, tomatoes, beef broth, and spices. Bring to a boil.\n4. Reduce heat to low and simmer for 30-40 minutes, or until beef is tender.\n5. Serve with couscous or naan bread.",
-        "rating": 4.0
+        "rating": 4.0,
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8Rn1tPgCEyo8Qh6s1Ou9s8Fhz99uaNfSjtQhjYhqb8oHhlbTGsxRjQlCyLu8Asvo1fE&usqp=CAU",
+        "chef_name": "Lis Johnson",
+        "years_of_experience":" 7 years",
+        "num_recipes": 5,
+        "likes": "900k",
+        "description":"Chef Lis Johnson is a professional chef with 7 years of experience in the culinary industry. She is known for her innovative and creative approach to cooking, and has gained popularity through her delicious and unique recipes. She has created 5 recipes that have been well received by her audience and has gained a significant following with over 900k likes. Her passion for cooking is evident in her work, and she continues to inspire others with her culinary creations."
+ 
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a0090H",
@@ -456,7 +497,7 @@
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6aak78aj",
         "category_id": "6",
-        "food_picture":"",
+        "food_picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-ClSyKekq1G8cnr6z6R4-_7widPhp4LWj9Dj1vI9dOU5iWCLMqWmuqbKPLtqffW3HFTo&usqp=CAU",
         "recipe_name": "Mediterranean Chicken Curry with Tomatoes and Olives",
         "ingredients": [
             "1 lb. boneless, skinless chicken breasts, cut into bite-sized pieces",
@@ -513,7 +554,14 @@
             "Salt and pepper to taste"
         ],
         "cooking_method": "1. In a food processor, combine the chickpeas, tahini, lemon juice, garlic, and cumin. \n2. Slowly drizzle in the olive oil while blending until smooth. \n3. Season with salt and pepper to taste. \n4. Serve with pita bread or vegetables for dipping.",
-        "rating": 4.5
+        "rating": 4.5,
+        "chef_picture": "https://www.themediterraneandish.com/wp-content/uploads/2018/08/Suzy-Karadsheh-The-Mediterranean-Dish-for-web.jpg",
+        "chef_name": "Suzy Karadsheh",
+        "years_of_experience":" 9 years",
+        "num_recipes": 8,
+        "likes": "2M",
+        "description":"Suzy Karadsheh is a chef with 9 years of experience in cooking and recipe development. She is known for her expertise in Mediterranean cuisine and her passion for sharing her knowledge with others. Suzy has created 8 recipes that have gained popularity among food enthusiasts, and her cooking style emphasizes the use of fresh and healthy ingredients. She has gained a significant following on social media, with 2 million likes, where she shares her culinary creations and cooking tips. Her dedication to the art of cooking has earned her a reputation as a skilled and respected chef in the culinary world."
+ 
     },
     {
         "_id":" 0282e0e58a5c404fbd15261f11c2ab6aha432d1s",
@@ -585,7 +633,14 @@
             "1/4 cup kalamata olives, chopped"
         ],
         "cooking_method": "Lay the tortilla flat on a clean surface. Spread the hummus evenly over the tortilla, leaving a 1-inch border around the edges. Layer the cherry tomatoes, cucumber, red onion, feta cheese, and kalamata olives on top of the hummus. Roll up the tortilla tightly, tucking in the sides as you go. Cut in half and serve.",
-        "rating": 4.2
+        "rating": 4.2,
+        "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnXFmDYebEF-RJn-2t88OCAFxyf3ASnxa9Fr7ta7HbGNm2bAzaQ5594fc9Hd-1fdpDd_k&usqp=CAU",
+        "chef_name": "Mustafa Ali",
+        "years_of_experience": "11 years",
+        "num_recipes": 9,
+        "likes": "2.1M",
+        "description":"Chef Mustafa Ali is a professional chef with 11 years of experience in the culinary industry. He is known for his exceptional cooking skills and his ability to create unique and delicious recipes. Chef Mustafa has a strong online presence and is admired by many food enthusiasts. He has created 9 original recipes which have been well received by his followers and fans. His dishes are often praised for their combination of flavors and his attention to detail when it comes to presentation. Chef Mustafa has gained a significant following with over 2.1 million likes on social media platforms, and his recipes have been shared and tried by many people worldwide."
+  
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6alk781ui",
